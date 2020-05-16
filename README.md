@@ -1,0 +1,2 @@
+# Keep Quiet
+My gaming setup is right next to our bedroom, and during some late night, wine-fueled sessions, I can get a little loud, keeping up my fiancée. So I built this python script to keep my sound level in check.
