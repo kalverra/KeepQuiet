@@ -3,7 +3,7 @@ import numpy as np
 import sounddevice as sd
 import soundfile as sf
 
-threshold = 5  # Decibel limit where I can start to be heard in the other room
+threshold = 35  # Decibel limit where I can start to be heard in the other room
 shut_up, sample_rate = sf.read("./shut_up.wav")
 
 
